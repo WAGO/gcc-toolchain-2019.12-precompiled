@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/workspace/out/arm-linux-gnueabihf/build-linaro/snapshots/gcc/configure SHELL=/bin/bash --with-mpc=/workspace/out/arm-linux-gnueabihf/build-linaro/builds/destdir/x86_64-unknown-linux-gnu --with-mpfr=/workspace/out/arm-linux-gnueabihf/build-linaro/builds/destdir/x86_64-unknown-linux-gnu --with-gmp=/workspace/out/arm-linux-gnueabihf/build-linaro/builds/destdir/x86_64-unknown-linux-gnu --with-build-sysroot=/workspace/out/arm-linux-gnueabihf/build-linaro/sysroots/arm-linux-gnueabihf --with-sysroot=/workspace/out/arm-linux-gnueabihf/build-linaro/builds/destdir/x86_64-unknown-linux-gnu/arm-linux-gnueabihf/libc --disable-libmudflap --disable-libssp --enable-checking=release --enable-gnu-indirect-function --enable-languages=c,c++,fortran --enable-shared --prefix= --target=arm-none-linux-gnueabihf --with-arch=armv7-a --with-bugurl=https://bugs.linaro.org/ --with-float=hard --with-fpu=neon --with-mode=arm --build=x86_64-unknown-linux-gnu --host=x86_64-unknown-linux-gnu --target=arm-linux-gnueabihf --prefix=/workspace/out/arm-linux-gnueabihf/build-linaro/builds/destdir/x86_64-unknown-linux-gnu";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "arm10e" }, { "arch", "armv7-a" }, { "float", "hard" }, { "mode", "arm" }, { "fpu", "neon" }, { "tls", "gnu" } };
