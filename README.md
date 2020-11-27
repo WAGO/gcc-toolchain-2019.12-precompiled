@@ -41,7 +41,7 @@ These steps will only concentrate on the recommented Ubuntu version:
 
 Simply clone this repository to a directory:
 ```
-git clone https://github.com/WAGO/gcc-linaro.toolchain-2017-precompiled.git 
+git clone https://github.com/WAGO/gcc-toolchain-2019.12-precompiled.git
 ```
 > We suggest to store it to /opt
 >```
