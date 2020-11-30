@@ -45,7 +45,7 @@ git clone https://github.com/WAGO/gcc-toolchain-2019.12-precompiled.git
 ```
 > We suggest to store it to /opt
 >```
->sudo git clone https://github.com/WAGO/gcc-toolchain-2019.12-precompiled.git /opt
+>sudo git clone https://github.com/WAGO/gcc-toolchain-2019.12-precompiled.git /opt/gcc-Toolchain-2019.12
 >```
 
 
