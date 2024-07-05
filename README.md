@@ -1,3 +1,9 @@
+# Warning! Deprecated!
+**This Repository is deprecated and will no longer be maintained!**
+**You can find the current repo [here](https://github.com/WAGO/gcc-toolchain)**
+
+---
+
 # GCC Toolchain 2019.12 Precompiled
 
 This repository includes a precompiled toolchain for the
